@@ -28,7 +28,6 @@
 
 ## Presentation
 
-研討會簡報：
 [第19屆物業管理研討會簡報](https://canva.link/1zeskf86bpyfe1h)
 
 ## Demo Video
