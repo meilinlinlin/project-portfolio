@@ -17,7 +17,7 @@ A collection of my engineering projects, competition reports, and technical work
 主要成果：
 - 第 20 屆盛群盃 HOLTEK MCU 創意大賽－金獎
 - 跨域創意整合設計獎－第二名
-- 114 學年度微星盃－銅獎、人氣獎
+- 114 學年度微星盃創意構想類－銅獎、人氣獎
 - 第 19 屆物業管理研究成果發表會－論文發表
 
 [查看專題資料](./projects/sun-tracking-shade)
